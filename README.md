@@ -1,7 +1,13 @@
-```markdown
-# Option Pricing with Monte Carlo Simulation - Streamlit App
 
+# Option Pricing with Monte Carlo Simulation - Streamlit App
+https://github.com/user-attachments/assets/13b20bdc-a9ef-456e-9377-ddb58ae50d02
+
+```markdown
 ![Streamlit App Screenshot](https://via.placeholder.com/800x400.png?text=Option+Pricing+Simulation+Interface)
+
+
+
+
 
 A Streamlit-based web application for pricing European and Cash-or-Nothing options using Monte Carlo simulations with Euler and Milstein discretization schemes.
 
